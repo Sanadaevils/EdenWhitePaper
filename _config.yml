@@ -3,9 +3,9 @@ email: Hello@edengenesis.io
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
-url: "/" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "/EdenWhitePaper" 
+twitter_username: EdenGenesis
+github_username:  EdenGenesis
 
 sass:
   sass_dir: _sass
